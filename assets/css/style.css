@@ -21,6 +21,7 @@ body {
 		position: absolute;
 		right: 100px;
 		top: 150px;
+		float: left;
 	}
 	h2 {
 		color: #4aaaa5;
@@ -28,4 +29,17 @@ body {
 	h3 {
 		text-align: center;
 		color: #4aaaa5;
+	}
+	footer.footer {
+		margin-top: -50px
+		text-align: center;
+	}
+	div.Github {
+		float: left;
+	}
+	div.LinkedIn {
+		float: left;
+	}
+	div.Stack {
+		float: left;
 	}
