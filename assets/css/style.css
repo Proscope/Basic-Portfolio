@@ -1,8 +1,31 @@
-h1 {
-	background-color: #4aaaa5;
-}
-div {
-	width: 500px;
-	padding: 25px;
-	margin: 25px;
-}
+body {
+		background-color: whitesmoke;
+				}
+	h1 {
+		background-color: #4aaaa5;
+		color: white;
+		width: 300px;
+		height: 75px;
+		text-align: center;
+		padding-top: 25px;
+			}
+	div.Aboutme {
+		background-color: white;
+		width: 600px;
+		height: 300px;
+	}
+	div.Connect {
+		background-color: white;
+		width: 300px;
+		height: 200px;
+		position: absolute;
+		right: 100px;
+		top: 150px;
+	}
+	h2 {
+		color: #4aaaa5;
+	}
+	h3 {
+		text-align: center;
+		color: #4aaaa5;
+	}
